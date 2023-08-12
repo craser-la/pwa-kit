@@ -42,6 +42,10 @@ Enter your [sandbox configuration](https://developer.salesforce.com/docs/commerc
 ### Run the Project Locally
 
 ```bash
+cd retail-react-app
+```
+
+```bash
 npm start
 ```
 
